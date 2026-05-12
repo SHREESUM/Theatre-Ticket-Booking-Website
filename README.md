@@ -10,4 +10,4 @@ The video showcases:
 **Note:** This repo only contains the video. The full project code is not hosted yet
 
 
-**Since the video is more than 25MB: ** [Here you can check it](https://www.linkedin.com/posts/shreesum-manandhar-67b3b5219_fullstackdevelopment-nodejs-webdevelopment-activity-7457087638882332672-0qnl?utm_source=share&utm_medium=member_desktop&rcm=ACoAADcN1H8BNwxNt5uAXPWHp19ToGAsbsupg8Y)
+**Since the video is more than 25MB:** [Here you can check it](https://www.linkedin.com/posts/shreesum-manandhar-67b3b5219_fullstackdevelopment-nodejs-webdevelopment-activity-7457087638882332672-0qnl?utm_source=share&utm_medium=member_desktop&rcm=ACoAADcN1H8BNwxNt5uAXPWHp19ToGAsbsupg8Y)
